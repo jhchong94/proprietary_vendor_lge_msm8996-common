@@ -530,5 +530,5 @@ PRODUCT_PACKAGES += \
     qti-telephony-common \
     com.qti.dpmframework \
     dpmapi \
-    manifest_android.hardware.drm@1.2-service.widevine \
-    vendor.qti.gnss@3.0-service
+    manifest_android.hardware.drm@1.2-service.widevine.xml \
+    vendor.qti.gnss@3.0-service.xml
